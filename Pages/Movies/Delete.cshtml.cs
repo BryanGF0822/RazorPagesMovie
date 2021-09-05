@@ -55,5 +55,6 @@ namespace RazorPagesMovie.Pages.Movies
 
             return RedirectToPage("./Index");
         }
+
     }
 }
